@@ -1,6 +1,8 @@
 # Tomasz Wojtasek
+
 Dane kontaktowe:
 - tom3k2002w@gmail.com
+
 # [Rozwijane projekty](https://github.com/Zogir01?tab=repositories)
 
 ### [Contact-Manager](https://github.com/Zogir01/Contact-Manager)
