@@ -3,7 +3,7 @@
 Dane kontaktowe:
 - tom3k2002w@gmail.com
 
-## [Zrealizowane projekty](https://github.com/Zogir01?tab=repositories)
+## Zrealizowane projekty
 
 ### [Contact-Manager](https://github.com/Zogir01/Contact-Manager)
 Aplikacja do zarządzania kontaktami. Napisana w języku C++ z interfejsem użytkownika stworzonym za pomocą biblioteki [PDCurses](https://pdcurses.org/). Projekt posiada dokumentację wygenerowaną przy użyciu narzędzia [Doxygen](https://github.com/doxygen/doxygen).
