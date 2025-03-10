@@ -17,4 +17,4 @@ Interesuje się pisaniem prostych skryptów automatyzujących w języku Python, 
 W przeszłości miałem także styczność z technologiami takimi jak:
 - C# Windows Forms,
 - serwer REST-API (Node.js, Express.js),
-- serwer gry online (System.Net.Sockets w C#), a jego implementacja w wersji "spaghetti code" znajduje się w [tym repozytorium](https://github.com/Wojw99/project-rascal/tree/game-server).
+- serwer gry online (System.Net.Sockets w C#), a jego implementacja w wersji "spaghetti code" znajduje się w [tym repozytorium](https://github.com/Wojw99/project-rascal/tree/game-server) :).
